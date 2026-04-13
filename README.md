@@ -41,6 +41,7 @@ A modern, HTML5-based slot machine game built with [Phaser 4](https://phaser.io/
 ### Development
 
 Start the Vite development server with HMR:
+
 ```bash
 npm run dev
 ```
@@ -48,6 +49,7 @@ npm run dev
 ### Build for Production
 
 Generate an optimized production build:
+
 ```bash
 npm run build
 ```
