@@ -1,16 +1,16 @@
-﻿<div align=""center"">
+﻿<div align="center">
   <h1>🎰 SlotForge</h1>
   <p><b>A modern, HTML5-based slot machine game built with Phaser 4 and Vite.</b></p>
   
-  <a href=""https://slotforge1.vercel.app/"" target=""_blank"">
-    <img src=""https://img.shields.io/badge/🎮_Play_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"" alt=""Play Live Demo"" />
+  <a href="https://slotforge1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Play_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Live Demo" />
   </a>
   <br />
   <br />
 
-  <a href=""https://slotforge1.vercel.app/"" target=""_blank"">
+  <a href="https://slotforge1.vercel.app/" target="_blank">
     <!-- Note: Replace this placeholder image URL with an actual animated GIF of your slot machine spinning once you record one! -->
-    <img src=""https://placehold.co/600x350/16213e/e94560.png?text=Play+SlotForge+Now!&font=Montserrat"" alt=""SlotForge Gameplay"" />
+    <img src="https://placehold.co/600x350/16213e/e94560.png?text=Play+SlotForge+Now!&font=Montserrat" alt="SlotForge Gameplay" />
   </a>
 </div>
 
